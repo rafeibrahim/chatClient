@@ -12,7 +12,9 @@
 8. Implemented shared preferences for saving colour preference of user
 
 
-# OO DESIGN PATTERN USED IN CLIENT APPLICATION: 1. MODEL VIEW CONTROLLER PATTERN (MVC)
+# OO DESIGN PATTERN USED IN CLIENT APPLICATION:
+
+# 1. MODEL VIEW CONTROLLER PATTERN (MVC)
 Used MVC pattern in my Chat Client Design. Divided my code in two directories i.e. UI part and Logic part
 # UI part: Behaves as view part of MVC (all activities and associated classes like recycler view adapter class, dialog fragment class etc.)
 # Logic part: Behaves as model part of MVC (all custom classes except ChatClientController object class)
